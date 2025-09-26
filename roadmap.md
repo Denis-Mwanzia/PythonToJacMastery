@@ -2,12 +2,12 @@
 # 📌 Python → Jac 6-Month Mastery Roadmap
 
 This roadmap combines **Python mastery 🐍** and **Jac programming ⚡** into one seamless journey.  
-Each week has clear goals, topics, and projects with checkboxes to track progress.
+Each week has clear goals, topics, exercises, and projects with checkboxes to track progress.  
 
 ---
 
 ## 🗓️ Phase 1 – Python Basics (Weeks 1–3)  
-**Goal:** Build strong programming fundamentals.
+**Goal:** Build strong programming fundamentals.  
 
 ### Week 1
 - [ ] Install Python & set up venv  
@@ -16,11 +16,32 @@ Each week has clear goals, topics, and projects with checkboxes to track progres
 - [ ] Write your first Python scripts  
 - [ ] **Mini-Project:** Number Guessing Game  
 
+<details>
+<summary>💡 Exercises</summary>
+
+- Write a program that checks if a number is positive, negative, or zero.  
+- Print multiplication table of a number.  
+- Create a script that adds two numbers entered by the user.  
+</details>
+
+---
+
 ### Week 2
 - [ ] Control Flow (`if`, `else`, `elif`, `match`)  
 - [ ] Loops (`for`, `while`, `break`, `continue`)  
 - [ ] Functions (parameters, return values, defaults, keyword args)  
 - [ ] **Mini-Project:** Calculator  
+
+<details>
+<summary>💡 Exercises</summary>
+
+- Write a program that checks eligibility based on age.  
+- Print all even numbers between 1 and 50.  
+- Sum all numbers from 1 to 100.  
+- Use a ternary operator to check if a number is even/odd.  
+</details>
+
+---
 
 ### Week 3
 - [ ] Review & consolidate basics  
@@ -31,7 +52,7 @@ Each week has clear goals, topics, and projects with checkboxes to track progres
 ---
 
 ## 🗓️ Phase 2 – Intermediate Python (Weeks 4–6)  
-**Goal:** Learn OOP, error handling, and data manipulation.
+**Goal:** Learn OOP, error handling, and data manipulation.  
 
 ### Week 4
 - [ ] Lists, Sets, Dicts, Tuples (CRUD & methods)  
@@ -54,7 +75,7 @@ Each week has clear goals, topics, and projects with checkboxes to track progres
 ---
 
 ## 🗓️ Phase 3 – Advanced Python (Weeks 7–9)  
-**Goal:** Get production-ready with Python.
+**Goal:** Get production-ready with Python.  
 
 ### Week 7
 - [ ] Virtual environments (venv) & pip  
@@ -78,7 +99,7 @@ Each week has clear goals, topics, and projects with checkboxes to track progres
 ---
 
 ## 🗓️ Phase 4 – Python for AI & Backend (Weeks 10–12)  
-**Goal:** Learn persistence, APIs, and basic AI integration.
+**Goal:** Learn persistence, APIs, and basic AI integration.  
 
 ### Week 10
 - [ ] Dataclasses (`@dataclass`)  
@@ -99,7 +120,7 @@ Each week has clear goals, topics, and projects with checkboxes to track progres
 ---
 
 ## 🗓️ Phase 5 – Transition to Jac (Weeks 13–14)  
-**Goal:** Install Jac and migrate from Python.
+**Goal:** Install Jac and migrate from Python.  
 
 ### Week 13
 - [ ] Install Jac (`pip install jaclang`)  
@@ -115,7 +136,7 @@ Each week has clear goals, topics, and projects with checkboxes to track progres
 ---
 
 ## 🗓️ Phase 6 – Core Jac Concepts (Weeks 15–18)  
-**Goal:** Learn Jac’s unique abstractions.
+**Goal:** Learn Jac’s unique abstractions.  
 
 ### Week 15
 - [ ] Understand nodes, edges, walkers  
@@ -139,7 +160,7 @@ Each week has clear goals, topics, and projects with checkboxes to track progres
 ---
 
 ## 🗓️ Phase 7 – AI with Jac (Weeks 19–20)  
-**Goal:** Use Jac’s neurosymbolic features.
+**Goal:** Use Jac’s neurosymbolic features.  
 
 ### Week 19
 - [ ] Replace functions with AI calls  
@@ -153,7 +174,7 @@ Each week has clear goals, topics, and projects with checkboxes to track progres
 ---
 
 ## 🗓️ Phase 8 – Capstone Projects (Weeks 21–24)  
-**Goal:** Build portfolio-ready Jac projects.
+**Goal:** Build portfolio-ready Jac projects.  
 
 ### Week 21
 - [ ] **Capstone 1:** Social Graph Analyzer  
@@ -164,14 +185,10 @@ Each week has clear goals, topics, and projects with checkboxes to track progres
 ### Week 23
 - [ ] **Capstone 3:** CommuterFlow (Transport Optimizer)  
 
-### Week 24
-- [ ] **Capstone 4:** ByteWave Connect AI Module  
-- [ ] Polish docs + demo videos  
-
 ---
 
 ## 🗓️ Phase 9 – Mastery & Contribution (Ongoing)  
-**Goal:** Contribute & grow in the Jac ecosystem.
+**Goal:** Contribute & grow in the Jac ecosystem.  
 
 - [ ] Read official docs → [jac-lang.org](https://jac-lang.org)  
 - [ ] Explore & contribute → Jaseci repo  
