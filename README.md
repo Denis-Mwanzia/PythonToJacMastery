@@ -1,31 +1,31 @@
 
 # Python → Jac Mastery Journey 🚀
 
-This repository documents my **6-month journey** from mastering Python 🐍  
-to building **AI-native applications** with **Jac** ⚡.
+This repository documents my **structured journey** from mastering Python 🐍  
+to building **AI-native applications** with **Jac** ⚡, following a detailed 6-stage roadmap.
 
 ## 📌 About
-- **Python**: Basics → Advanced → AI & Backend  
-- **Jac**: Basics → Graphs → AI Integration → Capstones  
-- Includes **notes, mini-projects, and portfolio projects**.
+- **Python**: Basics → Intermediate → Advanced → AI & Backend  
+- **Jac**: Basics → Core Concepts → AI Integration → Capstones  
+- Includes **notes, exercises, mini-projects, and portfolio projects**.  
+- All progress tracked in **journal.md**.
 
-## 📂 Structure
-- `pythonBasics/` → Foundations  
-- `pythonIntermediate/` → OOP & Data Handling  
-- `pythonAdvanced/` → Async, Testing, Advanced OOP  
-- `pythonAiBackend/` → REST APIs & AI Libraries  
-- `jacBasics/` → Jac syntax + first projects  
-- `jacCore/` → Graphs, Walkers, Persistence  
-- `jacAi/` → AI & Neurosymbolic Functions  
-- `capstoneProjects/` → Portfolio-ready projects  
+## 📂 Repository Structure
+- `pythonBasics/` → Python syntax, control flow, functions, basics  
+- `pythonIntermediate/` → Collections, files, error handling, modular code  
+- `pythonAdvanced/` → OOP, decorators, generators, regex  
+- `pythonAiBackend/` → REST APIs, databases, AI/ML foundations  
+- `jacBasics/` → Jac syntax, graphs, walkers  
+- `jacCore/` → Traversals, persistence, advanced graph modeling  
+- `jacAi/` → AI/NLP integration, neurosymbolic functions  
+- `capstoneProjects/` → Portfolio-ready Python + Jac projects  
 
-## 🗓️ Roadmap
-Full roadmap → [roadmap.md](./roadmap.md)  
-Daily log → [journal.md](./journal.md)  
+## 🗓️ Learning Roadmap
+- Full step-by-step plan → [roadmap.md](./roadmap.md)  
+- Daily/weekly reflections → [journal.md](./journal.md)  
 
----
-
-⚡ By the end of this journey:
-- I will be **fluent in Python + Jac**
-- Have **6–8 solid projects**
-- Be ready to **build and deploy AI-native apps**
+## 🎯 Goals
+By the end of this journey:
+- Become **fluent in Python and Jac**  
+- Build **6–8 solid projects** (from mini-apps to AI-native systems)  
+- Be ready to **design, build, and deploy AI-native applications** with confidence  
